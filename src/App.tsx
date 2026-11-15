@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { Navbar } from './components/Navbar';
+import { Navbar } from './src/assets/images/hero_designer_studio_1794731065570.jpg';
 import { HeroSection } from './components/HeroSection';
 import { WorkShowcase } from './components/WorkShowcase';
 import { ApproachSection } from './components/ApproachSection';
